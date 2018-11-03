@@ -39,9 +39,9 @@
      inkscape:window-height="691"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="27.812866"
-     inkscape:cx="7.7059005"
-     inkscape:cy="15.641729"
+     inkscape:zoom="55.625732"
+     inkscape:cx="0.28031185"
+     inkscape:cy="21.635688"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
 	.st0{fill:#4598C5;}
 </style>
   <rect
-     style="opacity:1;fill:#b014ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7291.66699219;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="opacity:1;fill:#1463ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7291.66699219;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="rect893"
      width="25000"
      height="25000"
@@ -200,5 +200,5 @@
      inkscape:connector-curvature="0"
      d="m 12499.999,4166.6665 c -3224.9999,0 -5833.3319,2608.3334 -5833.3319,5833.3345 0,4375 5833.3319,10833.333 5833.3319,10833.333 0,0 5833.334,-6458.333 5833.334,-10833.333 0,-3225.0011 -2608.332,-5833.3345 -5833.334,-5833.3345 z m 0,7916.6675 c -1149.999,0 -2083.332,-933.334 -2083.332,-2083.333 0,-1150.0012 933.333,-2083.3339 2083.332,-2083.3339 1150,0 2083.334,933.3327 2083.334,2083.3339 0,1149.999 -933.334,2083.333 -2083.334,2083.333 z"
      id="path907"
-     style="fill:#b014ff;fill-opacity:1;stroke-width:1041.66674805" />
+     style="fill:#1463ff;fill-opacity:1;stroke-width:1041.66674805" />
 </svg>

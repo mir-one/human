@@ -36,9 +36,9 @@
      inkscape:window-height="691"
      id="namedview21"
      showgrid="false"
-     inkscape:zoom="27.812867"
-     inkscape:cx="7.8657761"
-     inkscape:cy="6.1805433"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-13.639708"
+     inkscape:cy="20.952549"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -78,7 +78,7 @@
 	.st0{fill:#21409A;}
 	.st1{fill:#FFFFFF;}
 </style><rect
-     style="opacity:1;fill:#b014ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="opacity:1;fill:#1463ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="rect893"
      width="24"
      height="24"
@@ -96,9 +96,9 @@
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.99999905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><g
      id="Outline"
      transform="matrix(0.76465,0,0,0.76465,2.8242,2.8242)"
-     style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879">
+     style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879">
 	<g
-   style="display:none;fill:#b014ff;fill-opacity:1;stroke-width:1.3077879"
+   style="display:none;fill:#1463ff;fill-opacity:1;stroke-width:1.3077879"
    id="ui_x5F_spec_x5F_header"
    display="none">
 	</g>
@@ -106,5 +106,5 @@
    inkscape:connector-curvature="0"
    d="M 20,7 H 16 V 5 L 14,3 H 10 L 8,5 V 7 H 4 C 2.9,7 2,7.9 2,9 v 5 c 0,0.75 0.4,1.38 1,1.73 V 19 c 0,1.11 0.89,2 2,2 h 14 c 1.11,0 2,-0.89 2,-2 V 15.72 C 21.59,15.37 22,14.73 22,14 V 9 C 22,7.9 21.1,7 20,7 Z M 10,5 h 4 V 7 H 10 Z M 4,9 h 16 v 5 H 15 V 11 H 9 v 3 H 4 Z m 9,6 h -2 v -2 h 2 z m 6,4 H 5 v -3 h 4 v 1 h 6 v -1 h 4 z"
    id="path832"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879" />
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879" />
 </g></svg>

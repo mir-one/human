@@ -37,7 +37,7 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="11.313708"
-     inkscape:cx="9.180597"
+     inkscape:cx="-4.2544324"
      inkscape:cy="12.141363"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,7 +63,7 @@
 	.st0{fill:#21409A;}
 	.st1{fill:#FFFFFF;}
 </style><rect
-     style="opacity:1;fill:#b014ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="opacity:1;fill:#1463ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="rect893"
      width="24"
      height="24"
@@ -81,28 +81,28 @@
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.99999857;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><g
      id="Outline"
      transform="matrix(0.5406892,0.5406892,-0.5406892,0.5406892,12,-0.97654076)"
-     style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879">
+     style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879">
 	<g
-   style="display:none;fill:#b014ff;fill-opacity:1;stroke-width:1.3077879"
+   style="display:none;fill:#1463ff;fill-opacity:1;stroke-width:1.3077879"
    id="ui_x5F_spec_x5F_header"
    display="none">
 	</g>
 	<g
    id="g845"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879">
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879">
 		<g
    id="g841"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879">
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879">
 			<path
    inkscape:connector-curvature="0"
    d="m 17,7 h -4 v 2 h 4 c 1.65,0 3,1.35 3,3 0,1.65 -1.35,3 -3,3 h -4 v 2 h 4 c 2.76,0 5,-2.24 5,-5 0,-2.76 -2.24,-5 -5,-5 z"
    id="path837"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879" />
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879" />
 			<path
    inkscape:connector-curvature="0"
    d="M 11,15 H 7 C 5.35,15 4,13.65 4,12 4,10.35 5.35,9 7,9 h 4 V 7 H 7 c -2.76,0 -5,2.24 -5,5 0,2.76 2.24,5 5,5 h 4 z"
    id="path839"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879" />
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879" />
 		</g>
 		<rect
    x="8"
@@ -110,6 +110,6 @@
    width="8"
    height="2"
    id="rect843"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.3077879" />
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.3077879" />
 	</g>
 </g></svg>

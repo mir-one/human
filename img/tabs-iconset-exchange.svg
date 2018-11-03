@@ -37,7 +37,7 @@
      id="namedview23"
      showgrid="false"
      inkscape:zoom="27.812867"
-     inkscape:cx="0.6305547"
+     inkscape:cx="-1.9222206"
      inkscape:cy="17.092456"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -68,7 +68,7 @@
 	.st0{fill:#21409A;}
 	.st1{fill:#FFFFFF;}
 </style><rect
-     style="opacity:1;fill:#b014ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="opacity:1;fill:#1463ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="rect893"
      width="24"
      height="24"
@@ -114,9 +114,9 @@
 </g><g
      id="Outline"
      transform="matrix(0.84961111,0,0,0.84961111,1.8046667,1.8046667)"
-     style="fill:#b014ff;fill-opacity:1;stroke-width:1.17700899">
+     style="fill:#1463ff;fill-opacity:1;stroke-width:1.17700899">
 	<g
-   style="display:none;fill:#b014ff;fill-opacity:1;stroke-width:1.17700899"
+   style="display:none;fill:#1463ff;fill-opacity:1;stroke-width:1.17700899"
    id="ui_x5F_spec_x5F_header"
    display="none">
 	</g>
@@ -124,7 +124,7 @@
    inkscape:connector-curvature="0"
    d="M 6.99,11 3,15 6.99,19 V 16 H 14 V 14 H 6.99 Z M 21,9 17.01,5 V 8 H 10 v 2 h 7.01 v 3 z"
    id="path837"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.17700899" />
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.17700899" />
 </g><g
      style="display:none"
      id="Duotone"

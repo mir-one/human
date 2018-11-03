@@ -37,9 +37,9 @@
    inkscape:window-height="691"
    id="namedview15"
    showgrid="false"
-   inkscape:zoom="26.700352"
-   inkscape:cx="9.1990521"
-   inkscape:cy="31.839186"
+   inkscape:zoom="53.400704"
+   inkscape:cx="1.4483382"
+   inkscape:cy="29.280613"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
    cy="25"
    r="25"
    id="circle4"
-   style="fill:#b014ff;fill-opacity:1" />
+   style="fill:#1463ff;fill-opacity:1" />
 <circle
    class="st1"
    cx="25"
@@ -77,7 +77,7 @@
    rx="21"
    ry="21"
    id="ellipse10"
-   style="fill:#b014ff;fill-opacity:1" />
+   style="fill:#1463ff;fill-opacity:1" />
 <path
    class="st1"
    d="M27.8,25c0-1.5-1.2-2.7-2.7-2.7s-2.7,1.2-2.7,2.7s1.2,2.7,2.7,2.7S27.8,26.5,27.8,25z M25,12.8  c-6.7,0-12.2,5.5-12.2,12.2h-4l5.4,5.4l5.4-5.4h-4.1c0-5.2,4.2-9.5,9.5-9.5s9.5,4.2,9.5,9.5s-4.2,9.5-9.5,9.5c-2,0-3.9-0.7-5.5-1.8  l-1.9,2c2.1,1.6,4.6,2.5,7.4,2.5c6.7,0,12.2-5.5,12.2-12.2S31.8,12.8,25,12.8z"

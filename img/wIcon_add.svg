@@ -34,8 +34,8 @@
    id="namedview12"
    showgrid="false"
    inkscape:zoom="13.915541"
-   inkscape:cx="-4.168002"
-   inkscape:cy="8.4797282"
+   inkscape:cx="-6.4675891"
+   inkscape:cy="8.479728"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -73,12 +73,12 @@
    d="M 1225,281 C 1104,160 937,85 753,85 569,85 402,160 281,281 160,402 85,569 85,753 c 0,184 75,351 196,472 v 0 c 121,121 288,196 472,196 184,0 351,-75 472,-196 121,-121 196,-288 196,-472 0,-184 -75,-351 -196,-472 z"
    class="fillTrans"
    id="bg" /><path
-   style="fill:#b014ff;fill-rule:nonzero;fill-opacity:1"
+   style="fill:#1463ff;fill-rule:nonzero;fill-opacity:1"
    inkscape:connector-curvature="0"
    d="m 753,0 c 208,0 396,84 532,221 v 0 c 136,136 221,324 221,532 0,208 -85,396 -221,532 v 0 c -136,136 -324,221 -532,221 -208,0 -396,-85 -532,-221 v 0 C 84,1149 0,961 0,753 0,545 84,357 221,221 357,84 545,0 753,0 Z m 472,281 C 1104,160 937,85 753,85 569,85 402,160 281,281 160,402 85,569 85,753 c 0,184 75,351 196,472 v 0 c 121,121 288,196 472,196 184,0 351,-75 472,-196 121,-121 196,-288 196,-472 0,-184 -75,-351 -196,-472 z"
    class="fillBlue"
    id="outter" /><polygon
-   style="fill:#b014ff;fill-rule:nonzero;fill-opacity:1"
+   style="fill:#1463ff;fill-rule:nonzero;fill-opacity:1"
    points="796,795 796,1177 710,1177 710,795 328,795 328,710 710,710 710,328 796,328 796,710 1177,710 1177,795 "
    class="fillBlue"
    id="inner" />

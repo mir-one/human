@@ -40,7 +40,7 @@
    id="namedview19"
    showgrid="false"
    inkscape:zoom="55.625733"
-   inkscape:cx="4.6501558"
+   inkscape:cx="-2.3969423"
    inkscape:cy="5.7937529"
    inkscape:window-x="0"
    inkscape:window-y="0"
@@ -57,7 +57,7 @@
 
 
 <rect
-   style="opacity:1;fill:#b014ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   style="opacity:1;fill:#1463ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="rect893"
    width="24"
    height="24"
@@ -76,7 +76,7 @@
    id="ui_x5F_spec_x5F_header_copy_4"
    transform="translate(-32.050848,2.3308969)">
 	</g><path
-   style="fill:#b014ff;fill-opacity:1;stroke-width:0.99999988"
+   style="fill:#1463ff;fill-opacity:1;stroke-width:0.99999988"
    id="path823"
    d="M 12.764649,8.1767509 H 11.23535 V 11.23535 H 8.1767487 v 1.529301 H 11.23535 v 3.058599 h 1.529299 v -3.058599 h 3.0586 V 11.23535 h -3.0586 z M 11.999999,4.3535002 C 7.7867781,4.3535002 4.3535,7.7867783 4.3535,12 c 0,4.213222 3.4332781,7.6465 7.646499,7.6465 4.213222,0 7.646501,-3.433278 7.646501,-7.6465 0,-4.2132217 -3.433279,-7.6464998 -7.646501,-7.6464998 z m 0,13.7636998 c -3.3721068,0 -6.1172,-2.745094 -6.1172,-6.1172 0,-3.3721056 2.7450932,-6.1171994 6.1172,-6.1171994 3.372107,0 6.1172,2.7450938 6.1172,6.1171994 0,3.372106 -2.745093,6.1172 -6.1172,6.1172 z"
    inkscape:connector-curvature="0" /></svg>

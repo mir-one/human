@@ -36,7 +36,7 @@
    id="namedview7"
    showgrid="false"
    inkscape:zoom="27.812866"
-   inkscape:cx="3.8721777"
+   inkscape:cx="11.350731"
    inkscape:cy="13.490291"
    inkscape:window-x="0"
    inkscape:window-y="0"
@@ -49,7 +49,7 @@
 </style>
 
 <rect
-   style="opacity:1;fill:#b014ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   style="opacity:1;fill:#1463ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="rect893"
    width="24"
    height="24"
@@ -67,18 +67,18 @@
    style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.99999905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><g
    id="Outline"
    transform="matrix(0.84961111,0,0,0.84961111,1.8046667,1.8046667)"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.17700911">
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.17700911">
 	<g
    id="ui_x5F_spec_x5F_header"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.17700911">
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.17700911">
 	</g>
 	<g
    id="g841"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.17700911">
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.17700911">
 		<path
    inkscape:connector-curvature="0"
    d="M 17,16 13,12 V 8.82 C 14.16,8.4 15,7.3 15,6 15,4.34 13.66,3 12,3 10.34,3 9,4.34 9,6 9,7.3 9.84,8.4 11,8.82 V 12 L 7,16 H 3 v 5 h 5 v -3.05 l 4,-4.2 4,4.2 V 21 h 5 v -5 z"
    id="path839"
-   style="fill:#b014ff;fill-opacity:1;stroke-width:1.17700911" />
+   style="fill:#1463ff;fill-opacity:1;stroke-width:1.17700911" />
 	</g>
 </g></svg>

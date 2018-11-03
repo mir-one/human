@@ -20,7 +20,7 @@
 <html ng-app="app" ng-csp>
 <head>
   <meta charset="utf-8">
-  <title>МИР | Platform</title>
+  <title>МИР | Waves Blockchain</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/mir.css">
 
@@ -123,7 +123,7 @@
             <div class="plate-warning">
               <p class="dialog-text" style="font-weight: bold;">Treat your SEED (backup phrase) with care!</p>
               <p class="dialog-text">Only SEED can provide access to your wallet.</p>
-              <p class="dialog-text">1. Don't put your SEED anywhere except official<br/>Mir clients (look at the site domain).</p>
+              <p class="dialog-text">1. Don't put your SEED anywhere except official<br/>Waves clients (look at the site domain).</p>
               <p class="dialog-text">If someone else accesses it you will lose your funds.</p>
               <p class="dialog-text">2. Store your SEED safely, it is the only<br/>way to restore your wallet.</p>
             </div>
@@ -230,7 +230,7 @@
 
   <!-- HEADER -->
   <header class="fFade noSelect" ng-controller="mainMenuController as menu">
-    <img id="topLogoH" src="img/topleftlogo_hor.svg" alt="Mir platform logo horizontal" />
+    <img id="topLogoH" src="img/topleftlogo_hor.svg" alt="Waves platform logo horizontal" />
     <div id="logoNversion2">
       <img src="img/topleftlogo2.svg" />
       <p ng-class='{testnet: isTestnet()}'>{{::home.title}} <span class="wlcversion">{{::home.version}}</span></p>
@@ -260,7 +260,7 @@
           <div class="plate-warning">
             <p class="dialog-text" style="font-weight: bold;">Treat your SEED (backup phrase) with care!</p>
             <p class="dialog-text">Only SEED can provide access to your wallet.</p>
-            <p class="dialog-text">1. Don't put your SEED anywhere except official<br/>Mir clients (look at the site domain).</p>
+            <p class="dialog-text">1. Don't put your SEED anywhere except official<br/>Waves clients (look at the site domain).</p>
             <p class="dialog-text">If someone else accesses it you will lose your funds.</p>
             <p class="dialog-text">2. Store your SEED safely, it is the only<br/>way to restore your wallet.</p>
           </div>
@@ -301,7 +301,7 @@
                 <td><input class="wInput form-control" name="aliasName" type="text" placeholder="Symbolic name" ng-model="create.alias"/></td>
               </tr>
               <tr>
-                <td>Mir fee</td>
+                <td>Waves fee</td>
                 <td>{{::create.fee.formatAmount(true)}} {{::create.fee.currency.displayName}}</td>
               </tr>
               </tbody>
@@ -355,16 +355,16 @@
               tooltipster
               tooltip-html
               tooltip-theme="tooltipster-theme3"
-              tooltip-title="<center><u>Mir Decentralized Exchange</u></center><br/>Access to Mir markets where you can<br/>conveniently buy, sell and trade tokens."></span>
+              tooltip-title="<center><u>Waves Decentralized Exchange</u></center><br/>Access to Waves markets where you can<br/>conveniently buy, sell and trade tokens."></span>
       <span waves-tab
               on-select="nav.changeTab(pageId)"
               current-page-id="nav.currentTab"
               page-id="leasing"
-              caption="'Mir leasing tab'"
+              caption="'Waves leasing tab'"
               tooltipster
               tooltip-html
               tooltip-theme="tooltipster-theme3"
-              tooltip-title="<center><u>Leasing</u></center><br/>Lease your Mir<br/>to another wallet."></span>
+              tooltip-title="<center><u>Leasing</u></center><br/>Lease your Waves<br/>to another wallet."></span>
         <span waves-tab
               on-select="nav.changeTab(pageId)"
               current-page-id="nav.currentTab"
@@ -391,7 +391,7 @@
               tooltipster
               tooltip-html
               tooltip-theme="tooltipster-theme3"
-              tooltip-title="<center><u>Community tab</u></center><br/>Resources to learn more about Mir project such as <br/>forums, blogs, websites, etc."></span>
+              tooltip-title="<center><u>Community tab</u></center><br/>Resources to learn more about Waves project such as <br/>forums, blogs, websites, etc."></span>
       </div>
     </section>
 
@@ -408,7 +408,7 @@
                 <table>
                   <div class="balanceAmt">
                     <div ng-if="!send.feeAndTransferAssetsAreTheSame"><p>Asset balance: </p><span class="balancewaves">{{send.assetBalance | moneyLong:true}}</span><br/></div>
-                    <p>Mir balance: </p><span class="balancewaves">{{send.feeAssetBalance | moneyLong:true}}</span>
+                    <p>Waves balance: </p><span class="balancewaves">{{send.feeAssetBalance | moneyLong:true}}</span>
                   </div>
                   <thead>
                   <tr>
@@ -497,7 +497,7 @@
                     <td><input class="wInput form-control" name="withdrawTotal" type="text" placeholder="Total amount" ng-model="withdraw.total" ng-change="withdraw.refreshAmount()" decimal-input-restrictor/></td>
                   </tr>
                   <tr>
-                    <td class="padded">Mir fee</td>
+                    <td class="padded">Waves fee</td>
                     <td class="padded">
                       <md-autocomplete md-input-name="withdrawFee" md-selected-item="withdraw.autocomplete.selectedFee" md-search-text="withdraw.autocomplete.searchText"
                                        md-items="item in withdraw.autocomplete.querySearch(withdraw.autocomplete.searchText)"
@@ -516,7 +516,7 @@
             <div id="withdraw-confirmation" waves-dialog ok-button-caption="CONFIRM" ok-button-enabled="!withdraw.broadcast.pending" on-dialog-ok="withdraw.broadcastTransaction()">
               <div class="dialog-confirmation">
                 <p class="dialog-text">You are sending <span class="confirmation-value">{{withdraw.confirm.amount | moneyLong:true}}</span> with
-                  <span class="confirmation-value">{{withdraw.confirm.fee | moneyLong:true}}</span> fee to the Mir gateway address <br/>
+                  <span class="confirmation-value">{{withdraw.confirm.fee | moneyLong:true}}</span> fee to the Waves gateway address <br/>
                   <span class="confirmation-value">{{withdraw.confirm.gatewayAddress}}</span>.
                 </p>
                 <p class="dialog-text">The gateway will transfer these funds to your {{withdraw.sourceCurrency}} address: <span class="confirmation-value">{{withdraw.confirm.recipient}}</span>.</p>
@@ -533,7 +533,7 @@
                 you can withdraw {{withdraw.sourceCurrency}} back to your bank account<br/>
                 <br/>
                 To do so please make a SEND transaction to the<br/>
-                Mir address <span class="email"
+                Waves address <span class="email"
                                     title="Copy this address to the clipboard"
                                     tooltipster
                                     tooltip-theme="tooltipster-theme1"
@@ -571,7 +571,7 @@
                   Buy BTC from your credit card
                 </button>
               </p>
-              <p class="dialog-text">To deposit BTC to your Mir account, please send BTC to the address below.<br/>
+              <p class="dialog-text">To deposit BTC to your Waves account, please send BTC to the address below.<br/>
                 The minimum amount of deposit is <span class="fontBold">{{::deposit.btc.minimumAmount}} BTC</span>.</p>
               <table class="wavesTable bitcoin-requisites">
                 <tbody>
@@ -581,7 +581,7 @@
                 </tbody>
               </table>
               <p class="dialog-text">Enter this address into your Bitcoin client or wallet. Once the transaction is confirmed, <br/>
-                the gateway will process the transfer of BTC to a token in your Mir account.</p>
+                the gateway will process the transfer of BTC to a token in your Waves account.</p>
               <p class="dialog-text">Please note that the gateway doesn't apply any fees for this operation.</p>
               <p class="dialog-text">You can scan this QR-code in order to copy the address.<br/>
                 Amount is optional but it will be added to the QR-code if present.</p>
@@ -605,7 +605,7 @@
                    We do not accept such transactions and can’t refund them.<br/>
                    You will lose that money.</p>
               </div>
-              <p class="dialog-text">To deposit ETH to your Mir account, please send ETH to the address below.<br/>
+              <p class="dialog-text">To deposit ETH to your Waves account, please send ETH to the address below.<br/>
                 The minimum amount of deposit is <span class="fontBold">{{deposit.eth.minimumAmount}} ETH</span>.</p>
               <p class="dialog-text">Please do not deposit ERC20 tokens! Only Ethereum is allowed.</p>
               <table class="wavesTable bitcoin-requisites">
@@ -616,7 +616,7 @@
                 </tbody>
               </table>
               <p class="dialog-text">Enter this address into your Ethereum client or wallet. Once the transaction is confirmed, <br/>
-                the gateway will process the transfer of ETH to a token in your Mir account.</p>
+                the gateway will process the transfer of ETH to a token in your Waves account.</p>
               <p class="dialog-text">Please note that the gateway doesn't apply any fees for this operation.</p>
               <div class="textCenter">
                 <waves-qr-code class="center" size="180" value="deposit.eth.ethereumAddress"></waves-qr-code>
@@ -643,7 +643,7 @@
           <div class="noDisp" ng-controller="walletDepositController as deposit" data-currency="LTC">
             <div id="deposit-ltc-dialog" waves-dialog ok-button-caption="CLOSE" cancel-button-visible="false">
               <h2 class="sectionHeader">DEPOSIT: LTC</h2>
-              <p class="dialog-text">To deposit LTC to your Mir account, please send LTC to the address below.<br/>
+              <p class="dialog-text">To deposit LTC to your Waves account, please send LTC to the address below.<br/>
                 The minimum amount of deposit is <span class="fontBold">{{deposit.ltc.minimumAmount}} LTC</span>.</p>
               <table class="wavesTable bitcoin-requisites">
                 <tbody>
@@ -653,7 +653,7 @@
                 </tbody>
               </table>
               <p class="dialog-text">Enter this address into your Litecoin client or wallet. Once the transaction is confirmed, <br/>
-                the gateway will process the transfer of LTC to a token in your Mir account.</p>
+                the gateway will process the transfer of LTC to a token in your Waves account.</p>
               <p class="dialog-text">Please note that the gateway doesn't apply any fees for this operation.</p>
               <div class="textCenter">
                 <waves-qr-code class="center" size="180" value="deposit.ltc.litecoinAddress"></waves-qr-code>
@@ -664,7 +664,7 @@
           <div class="noDisp" ng-controller="walletDepositController as deposit" data-currency="ZEC">
             <div id="deposit-zec-dialog" waves-dialog ok-button-caption="CLOSE" cancel-button-visible="false">
               <h2 class="sectionHeader">DEPOSIT: ZEC</h2>
-              <p class="dialog-text">To deposit Zcash to your Mir account, please send Zcash to the address below.<br/>
+              <p class="dialog-text">To deposit Zcash to your Waves account, please send Zcash to the address below.<br/>
                 The minimum amount of deposit is <span class="fontBold">{{deposit.zec.minimumAmount}} ZEC</span>.</p>
               <table class="wavesTable bitcoin-requisites">
                 <tbody>
@@ -674,7 +674,7 @@
                 </tbody>
               </table>
               <p class="dialog-text">Enter this address into your Zcash client or wallet. Once the transaction is confirmed, <br/>
-                the gateway will process the transfer of Zcash to a token in your Mir account.</p>
+                the gateway will process the transfer of Zcash to a token in your Waves account.</p>
               <p class="dialog-text">Please note that the gateway doesn't apply any fees for this operation.</p>
               <div class="textCenter">
                 <waves-qr-code class="center" size="180" value="deposit.zec.zcashAddress"></waves-qr-code>
@@ -685,7 +685,7 @@
           <div class="noDisp" ng-controller="walletDepositController as deposit" data-currency="BCH">
             <div id="deposit-bch-dialog" waves-dialog ok-button-caption="CLOSE" cancel-button-visible="false">
               <h2 class="sectionHeader">DEPOSIT: BCH</h2>
-              <p class="dialog-text">To deposit BCH to your Mir account, please send BCH to the address below.<br/>
+              <p class="dialog-text">To deposit BCH to your Waves account, please send BCH to the address below.<br/>
                 The minimum amount of deposit is <span class="fontBold">{{deposit.zec.minimumAmount}} BCH</span>.</p>
               <table class="wavesTable bitcoin-requisites">
                 <tbody>
@@ -695,7 +695,7 @@
                 </tbody>
               </table>
               <p class="dialog-text">Enter this address into your BCH client or wallet. Once the transaction is confirmed, <br/>
-                the gateway will process the transfer of BCH to a token in your Mir account.</p>
+                the gateway will process the transfer of BCH to a token in your Waves account.</p>
               <p class="dialog-text">Please note that the gateway doesn't apply any fees for this operation.</p>
               <div class="textCenter">
                 <waves-qr-code class="center" size="180" value="deposit.bch.cashAddress"></waves-qr-code>
@@ -735,7 +735,7 @@
                       data-clipboard-text="{{deposit.fiat.email}}"
                       ngclipboard-success="clipboardOk()">{{deposit.fiat.email}}</span>
                 <br/>
-                with your Mir wallet address as the subject
+                with your Waves wallet address as the subject
               </p>
             </div>
           </div>
@@ -769,7 +769,7 @@
                       data-clipboard-text="{{deposit.fiat.email}}"
                       ngclipboard-success="clipboardOk()">{{deposit.fiat.email}}</span>
                 <br/>
-                with your Mir wallet address as the subject
+                with your Waves wallet address as the subject
               </p>
             </div>
           </div>
@@ -908,7 +908,7 @@
                   <h2 class="sectionHeader">ASSET TRANSFER</h2>
                   <div class="balanceAmt">
                     <p>Asset balance: </p><span class="balancewaves">{{transfer.availableBalance | moneyLong:true}}</span><br/>
-                    <p>Mir balance: </p><span class="balancewaves">{{transfer.feeAssetBalance | moneyLong:true}}</span>
+                    <p>Waves balance: </p><span class="balancewaves">{{transfer.feeAssetBalance | moneyLong:true}}</span>
                   </div>
                   <table class="wavesTable">
                     <thead>
@@ -973,7 +973,7 @@
                   <h2 class="sectionHeader">ASSET REISSUE</h2>
                   <div class="balanceAmt">
                     <p>Total tokens issued: </p><span class="balancewaves">{{reissue.totalTokens.formatAmount()}}</span><br/>
-                    <p>Mir balance: </p><span class="balancewaves">{{reissue.wavesBalance.formatAmount(true)}}</span>
+                    <p>Waves balance: </p><span class="balancewaves">{{reissue.wavesBalance.formatAmount(true)}}</span>
                   </div>
                   <table class="wavesTable">
                     <thead>
@@ -1129,7 +1129,7 @@
           <div class="phContent">
             <h1>DECENTRALIZED VOTING</h1>
             <br/>
-            <p>With a fair and automated system, Mir' voting area enables communities and projects to achieve consensus for critical decision-making that might otherwise prove difficult or controversial. A full set of analytic tools will also be available to follow up the voting process in real time.
+            <p>With a fair and automated system, Waves' voting area enables communities and projects to achieve consensus for critical decision-making that might otherwise prove difficult or controversial. A full set of analytic tools will also be available to follow up the voting process in real time.
               <br/><br/>
               The Decentralized Voting feature launch is estimated for the first quarter of 2017.
             </p>
@@ -1154,7 +1154,7 @@
             <h2 class="sectionHeader">TOKEN CREATION</h2>
             <form id="create-asset-form" name="createAssetForm" novalidate ng-validate="ctrl.issuanceValidationOptions" ng-submit="ctrl.assetIssueConfirmation(createAssetForm, $event)">
               <div class="balanceAmt">
-                <p>Mir balance: </p><span class="balancewaves">{{ctrl.wavesBalance | moneyLong:true}}</span>
+                <p>Waves balance: </p><span class="balancewaves">{{ctrl.wavesBalance | moneyLong:true}}</span>
               </div>
               <table class="wavesTable">
                 <thead>
