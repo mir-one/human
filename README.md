@@ -1,9 +1,9 @@
 # client
 
-Клиент для работы с ассетом "МИР" в сети MIR
+Клиент для работы с антропными ассетами "МИР" в сети Waves
 </br>
 <p align="center">
-  <img src="https://github.com/mir-one/client/blob/master/client.png">
+  <img src="https://github.com/mir-one/human/blob/master/human.png">
 </p>
 
 * Загрузите и распакуйте zip в любой каталог
