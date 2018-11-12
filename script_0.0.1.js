@@ -92,7 +92,7 @@ var app = new Vue({
 					amount: {
 						assetId: 'HdPJha3Ekn1RUR2K9RrY7SG9xK1b21AHPwkL8pcwTmSZ',
 						tokens: this.amount
-					},
+					}, 
 					fee: {
 						assetId: 'WAVES',
 						tokens: this.fee
