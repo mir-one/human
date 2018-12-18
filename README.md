@@ -2,7 +2,7 @@
 
 Клиент для работы с антропными ассетами "МИР" в сети Waves
 </br>
-<p align="center"><img src="https://github.com/mir-one/human/blob/master/client.png"></p>
+<p align="center"><img src="https://github.com/mir-one/human/blob/master/client_0.0.7.png"></p>
 
 * Загрузите и распакуйте zip в любой каталог
 * Перейдите в каталог **client**
